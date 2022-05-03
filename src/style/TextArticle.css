@@ -1,0 +1,13 @@
+.textArticle {
+    margin-right: 100px;
+}
+
+.textArticle h2 {
+    color : #282c34;
+    border-left : solid 9px #E4D7B4;
+    padding-left: 13px;
+}
+
+.textArticle p {
+    color: #827E7E;
+}

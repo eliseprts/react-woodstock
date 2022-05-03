@@ -1,0 +1,12 @@
+.contactContainer {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.contactContainer h2 {
+    margin-bottom: 60px;
+}
+
+::placeholder {
+    color: #D3C08E;
+    text-transform: uppercase;
+}

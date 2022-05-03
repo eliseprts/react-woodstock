@@ -1,0 +1,25 @@
+.article3Container {
+    padding: 120px 0px;
+    background-color: #282c34;
+    height: 811px;
+}
+.article3Container h2 {
+    color: #282c34;
+    padding: 12px 82px ;
+    z-index: 1;
+}
+
+.article3Container h3 {
+    margin-top: 10px;
+}
+
+.article3Container p {
+    margin-top: 60px;
+    margin-right: 100px;
+}
+
+.article3Container img {
+    margin-top : -190px;
+    z-index: 0;
+    filter: sepia(80%);
+}
