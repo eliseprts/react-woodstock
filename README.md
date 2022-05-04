@@ -16,6 +16,4 @@ _Repo created as part of the [BeCode web development training](https://becode.or
 
 ## Learning Objectives
 
-Learning React through the creation of a one page website
-
-> [Layout Figma](https://www.figma.com/proto/fB6MeHVqXD5Gd9qzMPpzOc/WoodSock?node-id=0%3A2&scaling=min-zoom)
+Learning React through the creation of a one page website ([Layout Figma](https://www.figma.com/proto/fB6MeHVqXD5Gd9qzMPpzOc/WoodSock?node-id=0%3A2&scaling=min-zoom))
